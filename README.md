@@ -1,5 +1,5 @@
 # Ham Fitness 
-This application was created using React and utilizes Rapid API to fetch data from the ExerciseDB & Youtube Search and Download.  
+This application was created using React, CSS and utilizes Rapid API to fetch data from the ExerciseDB & Youtube Search and Download API's.  
   
 
 ## What the web Application provides 
